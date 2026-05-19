@@ -2,8 +2,10 @@
 
 Source code and the AI chat history behind Stoa's [/sharelocalhost hero animation](https://withstoa.com/sharelocalhost) — the paper plane that flies from the share button down into the install instructions.
 
-📝 **Blog post:** [The Jig Is Back](https://withstoa.com/blog/the-jig-is-back)
-🎥 **Maker Meeting video:** [Watch on YouTube](https://youtu.be/AWQOvBRASsQ)
+📝 **Blog post:** [The Jig Is Back](https://withstoa.com/blog/the-jig-is-back) 
+
+🎥 **Maker Meeting video:** [Watch on YouTube](https://youtu.be/AWQOvBRASsQ) 
+
 💬 **Chat history:** `[transcript.md](./transcript.md)` — captured with [SpecStory](https://specstory.com)
 
 ---
