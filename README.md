@@ -6,7 +6,7 @@ Source code and the AI chat history behind Stoa's [/sharelocalhost hero animatio
 
 🎥 **Maker Meeting video:** [Watch on YouTube](https://youtu.be/AWQOvBRASsQ) 
 
-💬 **Chat history:** `[transcript.md](./transcript.md)` — captured with [SpecStory](https://specstory.com)
+💬 **Chat history:** [transcript.md](./transcript.md) — captured with [SpecStory](https://specstory.com)
 
 ---
 
